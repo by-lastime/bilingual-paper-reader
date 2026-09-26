@@ -1,0 +1,93 @@
+{
+  "snapshot_date": "2026-09-26",
+  "kind": "open-source-snapshot",
+  "files": [
+    {
+      "repository": "bilingual-paper-reader",
+      "path": "server.mjs",
+      "sha256": "443cce337e38a5212edcd0eab743ff8671a272fe9476c6bd945f8df4bc2b4c44",
+      "bytes": 11184
+    },
+    {
+      "repository": "bilingual-paper-reader",
+      "path": "package.json",
+      "sha256": "14bb897bcdaae0e6a5bceb585ae1522bf6ddcf174aad5f1bbbd8846dedcee025",
+      "bytes": 221
+    },
+    {
+      "repository": "bilingual-paper-reader",
+      "path": "package-lock.json",
+      "sha256": "aa1a051c9fc897f870ec8460aa82c77e0992805321bbfc0f45ab36c3d5d3ead1",
+      "bytes": 3893
+    },
+    {
+      "repository": "bilingual-paper-reader",
+      "path": "启动阅读网站.command",
+      "sha256": "d6d705f2106e63dd8c2dcbc00ea16fdd0519af01febe050f7a9a46788a0e77bf",
+      "bytes": 427,
+      "original_sha256": "19f3b4a56bfd7c170bf99dd39b9b2458458119c8b9a8eb597dc5b6aeaeef0094",
+      "modified_for_publication": true
+    },
+    {
+      "repository": "bilingual-paper-reader",
+      "path": "AGENTS.md",
+      "sha256": "5fce0574780b348652e8c23f003ddd5888b4685dea4ae5e51b9e4dc20bb0727a",
+      "bytes": 4112
+    },
+    {
+      "repository": "bilingual-paper-reader",
+      "path": "scripts/extract_source.py",
+      "sha256": "41829b753f9d7ddf7587751787020f89e98a759e196fd0d13bbf8cda5c0316a6",
+      "bytes": 8956
+    },
+    {
+      "repository": "bilingual-paper-reader",
+      "path": "scripts/start.mjs",
+      "sha256": "0bd7ab48fb1f1fa6b7641982c613045cb77217071eb7649e8c5a21789b69a20d",
+      "bytes": 1564
+    },
+    {
+      "repository": "bilingual-paper-reader",
+      "path": "scripts/check.mjs",
+      "sha256": "ea8e0afd19c133ee9dc719c07d42f736d019ea60deb8e26474787413505bf9e3",
+      "bytes": 2084
+    },
+    {
+      "repository": "bilingual-paper-reader",
+      "path": "scripts/check-live.mjs",
+      "sha256": "a12a8c049d16ca7fbd302ad746056eeb1ea0a87d7f4000ccc8ba63ec98d7b378",
+      "bytes": 3851
+    },
+    {
+      "repository": "bilingual-paper-reader",
+      "path": "dist/index.html",
+      "sha256": "7291145a0bf7cc4b669963bdaeda9de3b4b8f1efd7949150457b445c9ca65f5d",
+      "bytes": 5947
+    },
+    {
+      "repository": "bilingual-paper-reader",
+      "path": "dist/style.css",
+      "sha256": "8b03edadde4d2043691ce15c69f0158910442ebbefaafb0927e76c2debaefd31",
+      "bytes": 10021
+    },
+    {
+      "repository": "bilingual-paper-reader",
+      "path": "dist/app.js",
+      "sha256": "811063109a13f0e04dd638108e75cfa28aa6b2e3d114072b81020cb63e04b32c",
+      "bytes": 17760
+    },
+    {
+      "repository": "bilingual-paper-reader",
+      "path": "dist/favicon.svg",
+      "sha256": "3d7f102ee8c16cbd8da4b65973c33d880dff2c1a2144c73dd978721fae474b50",
+      "bytes": 225
+    },
+    {
+      "repository": "bilingual-paper-reader",
+      "path": "dist/reader-ui.css",
+      "sha256": "611f2c2dd1e1e74db20973a3bd629f1d3e486968aa123e18a121019b13f39597",
+      "bytes": 5031
+    }
+  ],
+  "publication_date": "2026-09-26"
+}
